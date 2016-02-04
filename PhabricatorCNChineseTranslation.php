@@ -13489,7 +13489,7 @@ return array(
   // src/applications/uiexample/examples/PHUIInfoPanelExample.php:96
   // src/applications/maniphest/config/PhabricatorManiphestConfigOptions.php:38
   // src/applications/maniphest/config/PhabricatorManiphestConfigOptions.php:39
-  'High' => null,
+  'High' => '高优先级',
 
   // src/applications/nuance/application/PhabricatorNuanceApplication.php:35
   'High-Volume Task Queues' => null,
@@ -15865,7 +15865,7 @@ return array(
 
   // src/applications/maniphest/config/PhabricatorManiphestConfigOptions.php:7
   // src/applications/maniphest/application/PhabricatorManiphestApplication.php:6
-  'Maniphest' => null,
+  'Maniphest' => '工作任务',
 
   // src/applications/uiexample/examples/PhabricatorHovercardUIExample.php:43
   'Maniphest Hovercard' => null,
@@ -25400,7 +25400,7 @@ return array(
   'Tasks To Merge' => '要合并的任务',
 
   // src/applications/maniphest/application/PhabricatorManiphestApplication.php:10
-  'Tasks and Bugs' => '任务与缺陷',
+  'Tasks and Bugs' => '工作任务，事务，bug修复',
 
   // src/applications/files/controller/PhabricatorFileComposeController.php:217
   // src/applications/project/icon/PhabricatorProjectIcon.php:11
